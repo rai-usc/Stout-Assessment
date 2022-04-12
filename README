@@ -1,0 +1,6 @@
+This folder contains files for analysis of 2 cases.
+Case 1 visualization is for code to visualize the dataset of loan applications.
+Case 1 Feature Engineering and Machine Learning contains ML code for first case.
+Case 2.py and Casestudy2.ipynb contains code for case 2.
+Visualization case1.twb is tableau file for case 1
+Case2.twb is tableau file for case 2
